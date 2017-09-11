@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Username"-->
+        <!--android:id="@+id/etUsername"-->
+        <!--android:text="tysovsky@gmail.com"/>-->
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Password"-->
+        <!--android:id="@+id/etPassword"-->
+        <!--android:text="\\EgRQCxzAx#a-R#TnAnr"/>-->
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Login"-->
+        <!--android:id="@+id/btnLogin"/>-->
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Get Songs"-->
+        <!--android:id="@+id/btnGetSongs"/>-->
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/songListView"></ListView>
+</LinearLayout>
