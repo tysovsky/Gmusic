@@ -1,6 +1,6 @@
 package com.tysovsky.gmusic.Interfaces;
 
-import com.tysovsky.gmusic.GMusicSong;
+import com.tysovsky.gmusic.Models.GMusicSong;
 
 import java.util.List;
 
@@ -9,5 +9,5 @@ import java.util.List;
  */
 
 public interface GetAllSongsListener {
-    void OnCompleted(List<GMusicSong> songs);
+    void OnCompleted(int status, List<GMusicSong> songs);
 }

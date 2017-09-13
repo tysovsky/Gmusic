@@ -1,7 +1,6 @@
 package com.tysovsky.gmusictestapp;
 
 
-import android.os.HandlerThread;
 import android.provider.Settings;
 import android.support.v4.app.FragmentManager;
 import android.os.Bundle;
@@ -18,8 +17,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.tysovsky.gmusic.GMusicClient;
-import com.tysovsky.gmusic.GMusicSong;
+import com.tysovsky.gmusic.Core.GMusicClient;
+import com.tysovsky.gmusic.Models.GMusicSong;
 import com.tysovsky.gmusic.Interfaces.GetAllSongsListener;
 import com.tysovsky.gmusic.Interfaces.LoginListener;
 

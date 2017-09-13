@@ -8,15 +8,13 @@
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="wrap_content"-->
         <!--android:hint="Username"-->
-        <!--android:id="@+id/etUsername"-->
-        <!--android:text="tysovsky@gmail.com"/>-->
+        <!--android:id="@+id/etUsername"/>-->
 
     <!--<EditText-->
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="wrap_content"-->
         <!--android:hint="Password"-->
-        <!--android:id="@+id/etPassword"-->
-        <!--android:text="\\EgRQCxzAx#a-R#TnAnr"/>-->
+        <!--android:id="@+id/etPassword"/>-->
     <!--<Button-->
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="wrap_content"-->

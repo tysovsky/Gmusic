@@ -13,10 +13,4 @@ public abstract class ListCall extends BaseCall {
     }
 
 
-    @Override
-    public HttpUrl buildUrl() {
-        HttpUrl.Builder builder = new HttpUrl.Builder()
-                .addQueryParameter("alt", "json")
-                .addQueryParameter("")
-    }
 }

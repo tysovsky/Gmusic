@@ -1,4 +1,4 @@
-package com.tysovsky.gmusic;
+package com.tysovsky.gmusic.Models;
 
 import java.util.UUID;
 

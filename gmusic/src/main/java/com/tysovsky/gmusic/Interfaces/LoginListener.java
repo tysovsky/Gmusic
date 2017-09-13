@@ -5,5 +5,5 @@ package com.tysovsky.gmusic.Interfaces;
  */
 
 public interface LoginListener {
-    void OnComplete(boolean success);
+    void OnComplete(int status);
 }

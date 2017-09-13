@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.tysovsky.gmusic.GMusicSong;
+import com.tysovsky.gmusic.Models.GMusicSong;
 
 import java.util.List;
 

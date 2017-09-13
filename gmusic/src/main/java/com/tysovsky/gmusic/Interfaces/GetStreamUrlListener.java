@@ -5,5 +5,5 @@ package com.tysovsky.gmusic.Interfaces;
  */
 
 public interface GetStreamUrlListener {
-    void OnCompleted(String StreamUrl);
+    void OnCompleted(int status, String streamUrl);
 }

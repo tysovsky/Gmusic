@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-import com.tysovsky.gmusic.GMusicClient;
-import com.tysovsky.gmusic.GMusicSong;
+import com.tysovsky.gmusic.Core.GMusicClient;
+import com.tysovsky.gmusic.Models.GMusicSong;
 
 import java.io.IOException;
 import java.util.ArrayList;
